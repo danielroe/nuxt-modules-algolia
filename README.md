@@ -34,7 +34,6 @@
 
 ```sh
 npx nuxi module add algolia
-npx nuxi module add algolia
 ```
 
 ## Basic usage
